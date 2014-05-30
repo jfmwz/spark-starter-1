@@ -12,5 +12,6 @@ object MainSparkDriver {
     }.reduce(_ + _)
     println("Sum of square: " + count)
     System.exit(0)
+
   }
 }
