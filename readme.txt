@@ -3,3 +3,6 @@ In MainSparkDriver.scala change "master" to the host name of Master of Spark clu
 run following commands
 sbt/sbt assembly
 sbt/sbt run
+
+update to version spark-1.0.0
+                  scala 2.10
